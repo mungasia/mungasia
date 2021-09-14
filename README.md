@@ -2,7 +2,7 @@
 - 👀 I’m interested in SAAS products and development.
 - 🌱 I’m currently learning marketing automation.
 - 💞️ I’m looking to collaborate on SAAS product development.
-- 📫 Reach my by inbox.
+- 📫 Reach me by inbox.
 
 <!---
 mungasia/mungasia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
